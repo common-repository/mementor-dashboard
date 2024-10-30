@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mementor Dashboard\n"
+"POT-Creation-Date: 2018-04-24 12:25+0200\n"
+"PO-Revision-Date: 2018-04-24 12:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mementor-dashboard.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: inc/mementordb-admin.php:36 inc/mementordb-admin.php:40
+#: inc/mementordb-admin.php:55
+msgid "Mementor Dashboard"
+msgstr "Mementor Kontrollpanel"
+
+#. Author of the plugin/theme
+#: inc/mementordb-admin.php:36
+msgid "Mementor"
+msgstr "Mementor"
+
+#: inc/mementordb-admin.php:40
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+#: inc/mementordb-admin.php:55
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/mementordb-helper.php:15
+msgid "Main Menu"
+msgstr "Hovedmeny"
+
+#: inc/mementordb-helper.php:18
+msgid "Support"
+msgstr "Support"
+
+#: inc/mementordb-helper.php:39
+msgid "Chat on Facebook"
+msgstr "Chat på Facebook"
+
+#: inc/mementordb-helper.php:45
+msgid "Chat on Skype"
+msgstr "Chat på Skype"
+
+#: inc/mementordb-helper.php:51
+msgid "Chat on Slack"
+msgstr "Chat på Slack"
+
+#: inc/mementordb-helper.php:57
+msgid "Visit our Website"
+msgstr "Besøk vår nettside"
+
+#: inc/mementordb-helper.php:62 inc/mementordb-helper.php:63
+msgid "Clear Cache"
+msgstr "Slett cache"
+
+#: inc/mementordb-helper.php:67
+msgid "Logout"
+msgstr "Logg ut"
+
+#: inc/mementordb-helper.php:68
+msgid "Log out"
+msgstr "Logg ut"
+
+#: inc/mementordb-wo-search-bar.php:49
+msgid "Search Product"
+msgstr "Søk etter produkt"
+
+#: inc/mementordb-wo-search-bar.php:49
+msgid "Search Products"
+msgstr "Søk i produkter og ordre"
+
+#: inc/mementordb-wo-search-bar.php:64
+msgid "Search Order"
+msgstr "Søk i ordre"
+
+#: inc/mementordb-wo-search-bar.php:64
+msgid "Search orders"
+msgstr "Søk i ordre"
+
+#: inc/mementordb-wo-search-bar.php:99
+#, php-format
+msgid "[%s with SKU of %s]"
+msgstr ""
+
+#: inc/mementordb-wo-search-bar.php:104
+#, php-format
+msgid "[%s with ID of %d]"
+msgstr ""
+
+#: inc/view/mementordb-settings.php:88
+msgid "Setting was updated successfully"
+msgstr "Lagring av innstilling var vellykket"
+
+#: inc/view/mementordb-settings.php:90
+msgid "Setting was not successfully updated"
+msgstr "Innstillingen ble ikke lagret"
+
+#: inc/view/mementordb-settings.php:96
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: inc/view/mementordb-settings.php:97
+msgid "Login Form"
+msgstr "Innlogging"
+
+#: inc/view/mementordb-settings.php:110
+msgid "Custom Logo"
+msgstr "Last opp logo"
+
+#: inc/view/mementordb-settings.php:116 inc/view/mementordb-settings.php:138
+msgid "Change"
+msgstr "Endre"
+
+#: inc/view/mementordb-settings.php:117 inc/view/mementordb-settings.php:124
+#: inc/view/mementordb-settings.php:139 inc/view/mementordb-settings.php:146
+msgid "Remove"
+msgstr "Fjern"
+
+#: inc/view/mementordb-settings.php:123 inc/view/mementordb-settings.php:145
+msgid "Choose File"
+msgstr "Velg fil"
+
+#: inc/view/mementordb-settings.php:132
+msgid "Form Background"
+msgstr "Last opp bakgrunn"
+
+#: inc/view/mementordb-settings.php:154
+msgid "Login Redirect"
+msgstr "Videresending etter innlogging"
+
+#: inc/view/mementordb-settings.php:167 inc/view/mementordb-settings.php:177
+#: inc/view/mementordb-settings.php:198
+msgid "User Role"
+msgstr "Brukerrolle"
+
+#: inc/view/mementordb-settings.php:181 inc/view/mementordb-settings.php:212
+msgid "Placeholder Redirect Link"
+msgstr "Skriv inn adressen brukeren skal videresendes til"
+
+#: inc/view/mementordb-settings.php:209
+msgid "Redirect Link"
+msgstr "Skal videresendes til"
+
+#: inc/view/mementordb-settings.php:223
+msgid "Admin Support Chat"
+msgstr "Admin support chat"
+
+#: inc/view/mementordb-settings.php:226
+msgid "Live Chat Code"
+msgstr "Live chat script"
+
+#: inc/view/mementordb-settings.php:234
+msgid "Contact Details"
+msgstr "Kontaktinformasjon"
+
+#: inc/view/mementordb-settings.php:237 inc/view/mementordb-settings.php:240
+msgid "Phone Number"
+msgstr "Telefon"
+
+#: inc/view/mementordb-settings.php:245 inc/view/mementordb-settings.php:248
+msgid "Email Address"
+msgstr "E-post"
+
+#: inc/view/mementordb-settings.php:253
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/view/mementordb-settings.php:256
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: inc/view/mementordb-settings.php:261 inc/view/mementordb-settings.php:264
+msgid "Slack"
+msgstr "Slack"
+
+#: inc/view/mementordb-settings.php:269 inc/view/mementordb-settings.php:272
+msgid "Website"
+msgstr "Nettside"
+
+#: inc/view/mementordb-settings.php:277 inc/view/mementordb-settings.php:280
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/view/mementordb-settings.php:285
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.mementor.no/"
+msgstr "https://www.mementor.no/"
+
+#. Description of the plugin/theme
+msgid "Mementor Dashboard is a modified skin for your WordPress Admin."
+msgstr ""
+"Mementor Kontrollpanel er et modifisert tema til ditt WordPress "
+"kontrollpanel."
